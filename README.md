@@ -142,13 +142,20 @@ while True:
 
 client.close()
 ```
+
 ## output
 ## serverchat
 <img width="1920" height="1080" alt="Screenshot 2026-04-29 114037" src="https://github.com/user-attachments/assets/39476f51-da8b-4bff-8466-76a2ace20260" />
 
 
-## 
+## clientchat
 <img width="1920" height="1080" alt="Screenshot 2026-04-29 114049" src="https://github.com/user-attachments/assets/f1566e35-2961-435c-91f0-35ddcc13b995" />
+
+
+
+
+
+
 
 
 ## Result:
