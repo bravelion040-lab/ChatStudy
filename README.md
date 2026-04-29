@@ -153,14 +153,7 @@ client.close()
 
 
 
-<img width="1920" height="1080" alt="Screenshot 2026-04-29 114049" src="https://github.com/user-attachments/assets/59da1cd0-2bd5-4c9f-9c4e-9c3d1edd3ff7" />
-
-
-
-
-
-
-
+<img width="1920" height="1080" alt="Screenshot 2026-04-29 114049" src="https://github.com/user-attachments/assets/59da1cd0-2bd5-4c9f-9c4e-9c3d1edd3ff7" /
 
 
 ## Result:
